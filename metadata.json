@@ -1,0 +1,6 @@
+{
+  "name": "DepthLock",
+  "description": "iOS 16+ style depth clock lock screen with customizable fonts, widgets, depth subject effects, and lock screen replacement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

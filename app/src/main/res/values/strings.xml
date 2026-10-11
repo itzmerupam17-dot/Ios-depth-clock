@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DepthLock</string>
+    <string name="title_depth_clock">iOS Depth Clock</string>
+    <string name="desc_depth_clock">Customize your lock screen clock with depth effect behind wallpapers</string>
+</resources>
